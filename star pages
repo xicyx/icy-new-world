@@ -1,0 +1,57 @@
+<h1>this is web titile </h1>
+<ul>
+  <li><a href="
+    #">link 1</a></li>
+    <li><a href="#">link 2</a></li>
+</ul>
+<h1>this is titile one </h1>
+<h2>this is titile two</h2>
+<p>balabala</p>
+<p>阿狸，卡通形象，由清华大学美术学院视觉传达专业硕士学位毕业的徐瀚所创作，其形象为一只穿着白色短裤的、红色的小狐狸。阿狸的童话、壁纸、四格漫画、QQ表情已推出，并在不断更新中。
+<a href="https://www.baidu.com/">连接到百度</a>阿狸，卡通形象，由清华大学美术学院视觉传达专业硕士学位毕业的徐瀚所创作，其形象为一只穿着白色短裤的、红色的小狐狸。阿狸的童话、壁纸、四格漫画、QQ表情已推出，并在不断更新中。
+</p>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488353790480&di=6108e00d5472b26af3dda4aff0aabb4b&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fc2fdfc039245d68833446282a6c27d1ed21b2456.jpg">
+<p>阿狸，卡通形象，由清华大学美术学院视觉传达专业硕士学位毕业的徐瀚所创作，其形象为一只穿着白色短裤的、红色的小狐狸。阿狸的童话、壁纸、四格漫画、QQ表情已推出，并在不断更新中。
+<a href="https://zhidao.baidu.com/question/6489642.html" target="_black"><strong>强壮的字体！打开新页面</strong></a>阿狸，卡通形象，由清华大学美术学院视觉传达专业硕士学位毕业的徐瀚所创作，其形象为一只穿着白色短裤的、红色的小狐狸。阿狸的童话、壁纸、四格漫画、QQ表情已推出，并在不断更新中。
+</p>
+<ol>
+  <li>pic one</li>
+   <li>pic two</li>
+</ol>
+<p>example</p>
+<table border="1">
+<tr>
+<td>name</td>
+<td>age</td>
+  <td>sex</td>
+</tr>
+<tr>
+<td>lily</td>
+<td>15</td>
+  <td>m</td>
+</tr>
+  <tr>
+<td>codes</td>
+<td colspan="2">123456</td>
+ 
+</tr>
+</table>
+<p></p>
+name:<input></input>
+<p>age:<select>
+ <option value ="15">15</option>  
+  <option value ="16">16</option>  
+  <option value="17">17</option>  
+  <option value="18">18</option>  </select></p>
+sex:<input   type="radio"   value="m"    name="sex"   checked="checked">M</input>
+<input   type="radio"   value="f"    name="sex"  >F</input>
+<p>stars:<input   type="checkbox"   value="1"    name="stars"  >*</input>
+<input   type="checkbox"   value="2"    name="stars"  >**</input>
+<input   type="checkbox"   value="3"    name="stars"  >***</input>
+</p>
+tips:
+<p>
+  <textarea >say someting about the pictcures... </textarea></p>
+
+<button>submit</button>
+<p>by @icyicy</p>
